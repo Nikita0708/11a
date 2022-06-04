@@ -110,3 +110,8 @@ p {
     width: 970px;
   }
 }
+@media screen and (max-width: 700px) {
+  div.container {
+    width: 680px;
+  }
+}
