@@ -60,7 +60,7 @@ p {
   color: #2196f3;
 }
 .header-information {
-  margin-left: 450px;
+  margin-left: 700px;
   font-size: 20px;
   font-weight: 500;
   color: #757575;
@@ -94,4 +94,19 @@ p {
   padding-top: 100px;
   padding-bottom: 222px;
   background-color: rgba(0, 0, 0, 0.5);
+}
+@media screen and (max-width: 1280px) {
+  div.contentblock {
+    width: 1200px;
+  }
+}
+@media screen and (max-width: 1140px) {
+  div.contentblock {
+    width: 1024px;
+  }
+}
+@media screen and (max-width: 992px) {
+  div.contentblock {
+    width: 970px;
+  }
 }
