@@ -96,17 +96,17 @@ p {
   background-color: rgba(0, 0, 0, 0.5);
 }
 @media screen and (max-width: 1280px) {
-  div.contentblock {
+  div.container {
     width: 1200px;
   }
 }
 @media screen and (max-width: 1140px) {
-  div.contentblock {
+  div.container {
     width: 1024px;
   }
 }
 @media screen and (max-width: 992px) {
-  div.contentblock {
+  div.container {
     width: 970px;
   }
 }
